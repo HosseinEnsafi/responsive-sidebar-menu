@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/responsive-sidebar-menu/static/css/main.48f17506.css",
+    "main.js": "/responsive-sidebar-menu/static/js/main.6b9c4920.js",
+    "static/media/IRANSans_Bold.ttf": "/responsive-sidebar-menu/static/media/IRANSans_Bold.393615b5c1fcd4ad23d5.ttf",
+    "static/media/IRANSans_Light.ttf": "/responsive-sidebar-menu/static/media/IRANSans_Light.618fb10447c5facc14ea.ttf",
+    "static/media/IRANSans_Medium.ttf": "/responsive-sidebar-menu/static/media/IRANSans_Medium.c03af4462819dc9cffc3.ttf",
+    "index.html": "/responsive-sidebar-menu/index.html",
+    "main.48f17506.css.map": "/responsive-sidebar-menu/static/css/main.48f17506.css.map",
+    "main.6b9c4920.js.map": "/responsive-sidebar-menu/static/js/main.6b9c4920.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48f17506.css",
+    "static/js/main.6b9c4920.js"
+  ]
+}
